@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Vector DB
+chroma/
+
+# Local embedding model
+all-MiniLM-L6-v2/
+
+# OS files
+.DS_Store
+
+# Streamlit
+.streamlit/

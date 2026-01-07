@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+sentence-transformers
+chromadb
+faiss-cpu
+beautifulsoup4
+scikit-learn
+numpy
+torch
+requests
